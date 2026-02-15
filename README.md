@@ -7,11 +7,12 @@
 ### I’m Roland Haller aka Kanikaze🦀💨 or 晴 in Japan
 
 - Working as a Creative Director in [Tsunagaru Inc](https://www.tsunagaru.co.jp/)
-- Training as a Software Engineer specializing in **Rust, Terminal UIs, and AI agentic workflows**.
+- Training as a Software Engineer specializing in **Rust** with a love of all thing terminal and a shiny-new-tool addiction.
+- Passionate in education, learning, and the tools to improve it.
 
-I build games & tools for fun and profit.
+I build things educational games & tools (mostly to myself by virtue of building them) for fun and, one day hopefully profit.
 
-Based in Fukuoka, Japan for now / working remotely.
+Based in Fukuoka, Japan for now, working remotely.
 <br>
 <br>
 <br>
